@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flota>
+    <vehiculo>
+        <matricula>1234ABC</matricula>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <anyo>2020</anyo>
+        <kilometraje>45000</kilometraje>
+        <categoriaMantenimiento>Revisión anual</categoriaMantenimiento>
+    </vehiculo>
+    <vehiculo>
+        <matricula>5678DEF</matricula>
+        <marca>Seat</marca>
+        <modelo>León</modelo>
+        <anyo>2019</anyo>
+        <kilometraje>62000</kilometraje>
+        <categoriaMantenimiento>Cambio de aceite</categoriaMantenimiento>
+    </vehiculo>
+    <vehiculo>
+        <matricula>9012GHI</matricula>
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <anyo>2022</anyo>
+        <kilometraje>18000</kilometraje>
+        <categoriaMantenimiento>Revisión anual</categoriaMantenimiento>
+    </vehiculo>
+</flota>

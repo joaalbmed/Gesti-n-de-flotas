@@ -1,0 +1,26 @@
+[
+  {
+    "matricula": "1234ABC",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anyo": 2020,
+    "kms_recorridos": 45000,
+    "categoriaMantenimiento": "Revisión anual"
+  },
+  {
+    "matricula": "5678DEF",
+    "marca": "Seat",
+    "modelo": "León",
+    "anyo": 2019,
+    "kms_recorridos": 62000,
+    "categoriaMantenimiento": "Cambio de aceite"
+  },
+  {
+    "matricula": "9012GHI",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "anyo": 2022,
+    "kms_recorridos": 18000,
+    "categoriaMantenimiento": "Revisión anual"
+  }
+]
